@@ -284,8 +284,10 @@ architetture sono:
    micro-servizio obsoleto ed un processo di build più efficiente in
    quanto a livello di singolo micro-servizio
 
--  la definizione di interazione attraverso API RESTful che rendono la
-   realizzazione dei micro-servizi non vincolata all’utilizzo di un
+-  la definizione di interazione attraverso API RESTful che possono
+   far leva sulle specifiche di HTTP - protocollo progettato per 
+   la collaborazione distribuita di sistemi informativi -
+   svincolano la realizzazione dei micro-servizi dall’utilizzo di un
    unico stack tecnologico e rafforzano la capacità del team di sviluppo
    a lavorare in parallelo sullo stesso sistema
 
